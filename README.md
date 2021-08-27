@@ -1,7 +1,7 @@
-# Acamica-Entrega-Final
-Proyectos de la entrega final de la carrera
+# Proyecto Data Science: Analisis de datos inmobiliariarios
+Proyectos de la entrega final de la carrera de Data Science con Acamica año 2021
 
-## Carrera de cientifico de datos Año 2021
+## Descripción
 
 Los notebooks adjuntos detallan el proceso de transformación de datos y aplicación de algoritmos de Machine Learning.
 
