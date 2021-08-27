@@ -1,4 +1,4 @@
-# Proyecto Data Science: Analisis de datos inmobiliariarios
+# Proyecto Data Science: Analisis de datos inmobiliarios
 Proyectos de la entrega final de la carrera de Data Science con Acamica año 2021
 
 ## Descripción
